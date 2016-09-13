@@ -32,11 +32,11 @@ body {
   border-radius: 0;
 }
 
-#content h3 {
+.content h3 {
     font-size: 15pt;
 }
 
-#content h4 {
+.content h4 {
     color: gray;
     font-decoration: bold
 }
